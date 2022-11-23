@@ -46,5 +46,33 @@ public class AreaOfRectangle{
    }
 }
 ---------------------------------------------------------------------------------------------
+Q.5 WAP to calculate Sum of two numbers
+
+
+public class sum {
+  public static void main(String[] args) {
+     int num1 = 5, num2 = 15,sum;
+      sum = num1+num2;
+  
+    System.out.println("Sum of "+num1+" and "+num2+" is: "+sum);
+  }
+}
+
+Q.6 WAP to calculate Simple interset?      for Srtudents.
+Q.7 WAP to  calculate square of a given number. (static number )  for Srtudents.
+
+-------------------------------------------------------------------------------------------------
+Q.6  WAP to  
+
+Number of rows = 6
+Output: 
+* 
+* * 
+* * * 
+* * * * 
+* * * * *  
+* * * * * *
+
+
 
  
