@@ -1,0 +1,37 @@
+Q.1 WAP to print HEllo world?
+
+class HelloWorld
+{
+   public static void main(String args[])
+   {
+      System.out.println("Hello World");
+   }
+}
+
+--------------------------------------------------------------------
+Q.2 WAP to Calculate Area Of Circle?
+
+public class AreaOfCircle{
+   public static void main(String args[]){
+      double area, radius;
+      radius= 5;
+      System.out.printf("The radius of the circle is %.8f ", radius);
+      area=(22*radius*radius)/7 ;
+      System.out.println("The Area of Circle is: " + area);
+   }
+}
+
+--------------------------------------------------------------------------------
+Q.3 WAP to calculate Area Of Triangle?
+
+public class AreaOfCircle{
+   public static void main(String args[]){
+      double b, h;
+     
+       
+      area=(b*h)/2 ;
+      System.out.println("The Area of Circle is: " + area);
+   }
+}
+-------------------------------------------------------------------------------------------
+ 
